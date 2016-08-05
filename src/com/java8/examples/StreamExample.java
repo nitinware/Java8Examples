@@ -15,6 +15,7 @@ public class StreamExample {
 		boolean isPresent = false;
 		
 		List<String> strCollection = new ArrayList<>();
+		strCollection.add("riaan");
 		strCollection.add("nitin");
 		strCollection.add("pratik");
 		strCollection.add("subin");
